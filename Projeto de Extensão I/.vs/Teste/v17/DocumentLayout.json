@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|c:\\users\\rafaela\\desktop\\projeto de extens\u00E3o i (final)\\projeto de extens\u00E3o i (final)\\projeto de extens\u00E3o i\\projetodeextensao\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmatualizarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmatualizarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmatualizarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmatualizarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmatualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmatualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmatualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmatualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcadastrarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcadastrarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcadastrarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcadastrarchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmchacaras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmchacaras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmchacaras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmchacaras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmvisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmvisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmvisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmvisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmexcluirchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmexcluirchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmexcluirchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmexcluirchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmdiarias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmexcluircliente.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmexcluircliente.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\frmexcluircliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\frmexcluircliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\projetodeextensao\\crudchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B734E0-4951-4157-8A1D-7F3AC9319656}|ProjetodeExtensao\\ProjetodeExtensao.csproj|solutionrelative:projetodeextensao\\crudchacara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\main.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\main.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\main.cs",
+              "RelativeToolTip": "ProjetodeExtensao\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:17:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAtualizarChacara.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmAtualizarChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarChacara.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmAtualizarChacara.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:17:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAtualizarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarCliente.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmAtualizarCliente.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarCliente.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmAtualizarCliente.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:16:24.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAtualizarChacara.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmAtualizarChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarChacara.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmAtualizarChacara.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:31:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:59:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:59:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCadastrarChacara.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmCadastrarChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarChacara.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmCadastrarChacara.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:42:31.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCadastrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarCliente.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmCadastrarCliente.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarCliente.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmCadastrarCliente.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:45:45.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAtualizarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarCliente.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmAtualizarCliente.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmAtualizarCliente.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmAtualizarCliente.cs*",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:38:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCadastrarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarCliente.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmCadastrarCliente.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarCliente.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmCadastrarCliente.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:15:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCadastrarChacara.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmCadastrarChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmCadastrarChacara.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmCadastrarChacara.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:42:32.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmChacaras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmChacaras.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmChacaras.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmChacaras.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmChacaras.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:49:45.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmVisitas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmVisitas.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmVisitas.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmVisitas.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmVisitas.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:13:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmVisitas.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmVisitas.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmVisitas.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmVisitas.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmVisitas.cs*",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:13:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPagamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmPagamentos.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmPagamentos.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmPagamentos.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmPagamentos.cs*",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:12:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmChacaras.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmChacaras.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmChacaras.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmChacaras.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmChacaras.cs*",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAmwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:49:53.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPagamentos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmPagamentos.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmPagamentos.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmPagamentos.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmPagamentos.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:12:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmExcluirChacara.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmExcluirChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirChacara.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmExcluirChacara.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:09:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmDiarias.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmDiarias.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmDiarias.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmDiarias.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmDiarias.cs*",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAAAFsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:08:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmDiarias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmDiarias.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmDiarias.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmDiarias.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmDiarias.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:08:43.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmExcluirChacara.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmExcluirChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirChacara.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmExcluirChacara.cs*",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAQwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:58:20.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmInicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmInicial.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmInicial.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmInicial.cs [Design]",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmInicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:55:42.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmInicial.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmInicial.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmInicial.cs",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmInicial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:55:49.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmContratos.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmContratos.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmContratos.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmContratos.cs*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmContratos.cs*",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAiwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:08:08.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmContratos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmContratos.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmContratos.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmContratos.cs [Design]*",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmContratos.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:07:59.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmClientes.cs",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmClientes.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:05:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmClientes.cs [Design]",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:05:45.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.resx",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\Form1.resx",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\Form1.resx*",
+              "RelativeToolTip": "ProjetodeExtensao\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-26T10:59:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmExcluirCliente.resx",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirCliente.resx",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmExcluirCliente.resx",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirCliente.resx",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmExcluirCliente.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-26T10:58:05.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmExcluirCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirCliente.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\FrmExcluirCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\FrmExcluirCliente.Designer.cs",
+              "RelativeToolTip": "ProjetodeExtensao\\FrmExcluirCliente.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:57:56.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CRUDChacara.cs",
+              "DocumentMoniker": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\CRUDChacara.cs",
+              "RelativeDocumentMoniker": "ProjetodeExtensao\\CRUDChacara.cs",
+              "ToolTip": "C:\\Users\\Rafaela\\Desktop\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I (final)\\Projeto de Extens\u00E3o I\\ProjetodeExtensao\\CRUDChacara.cs",
+              "RelativeToolTip": "ProjetodeExtensao\\CRUDChacara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:37:37.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

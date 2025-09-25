@@ -1,0 +1,504 @@
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\source\repos\Teste\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\OneDrive\Área de Trabalho\IFSP\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (2)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (1)\Projeto de Extensão I\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CopyComplete
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\gutoc\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Enrico\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CopyComplete
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\nasal\Downloads\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe.config
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.exe
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ProjetodeExtensao.pdb
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\MySql.Data.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Buffers.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Memory.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.AssemblyReference.cache
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmLogin.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarChacara.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmAtualizarCliente.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarChacara.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmCadastrarCliente.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmChacaras.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmClientes.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmContratos.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmDiarias.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirChacara.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmExcluirCliente.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmInicial.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmPagamento.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.FrmVisitas.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.Properties.Resources.resources
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.GenerateResource.cache
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\Projetod.84E1CA6C.Up2Date
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.exe
+C:\Users\Rafaela\Desktop\Projeto de Extensão I (final)\Projeto de Extensão I (final)\Projeto de Extensão I\ProjetodeExtensao\obj\Debug\ProjetodeExtensao.pdb
